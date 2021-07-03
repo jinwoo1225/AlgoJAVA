@@ -61,7 +61,7 @@ public class programmers_stackQueue_2 {
                     printerQueue.add(pp);
                 }
             } else {
-                return attempt + 1;
+                return attempt;
             }
         }
         return attempt;
